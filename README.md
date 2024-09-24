@@ -1,3 +1,2 @@
 # Blog-Posts
-##HELLO
-###BYE
+##HELLO, This Amir, and I'm currnetly doing my master's
